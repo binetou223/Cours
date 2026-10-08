@@ -1,7 +1,8 @@
 <script setup>
 // import hellowordVue from "./Demo/01_hello-Word/helloword.vue";
 
-import EVENT from "./Demo/05_EVENT/Event.vue";
+import EVENT from "./Demo/05_EVENT/FormEvent.vue";
+// import EVENT from "./Demo/05_EVENT/Event.vue";
 
 // import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
 
