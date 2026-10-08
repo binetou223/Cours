@@ -1,7 +1,9 @@
 <script setup>
 // import hellowordVue from "./Demo/01_hello-Word/helloword.vue";
 
-import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
+import EVENT from "./Demo/05_EVENT/Event.vue";
+
+// import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
 
 // import VBindVue from "./Demo/03_VBIND/VBind.vue";
 
@@ -15,6 +17,7 @@ import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
       <!-- <hellowordVue></hellowordVue> -->
       <!-- <interpolationVue></interpolationVue> -->
        <!-- <VBindVue></VBindVue> -->
-        <Attribut></Attribut>
+        <!-- <Attribut></Attribut> -->
+         <EVENT></EVENT>
   </div>
 </template>
