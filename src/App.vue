@@ -3,11 +3,10 @@
 
 // import EVENT from "./Demo/05_EVENT/FormEvent.vue";
 // import EVENT from "./Demo/05_EVENT/Event.vue";
-import reative from "./Demo/06_reactive/reative.vue";
+// import reative from "./Demo/06_reactive/reative.vue";
 // import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
-
 // import VBindVue from "./Demo/03_VBIND/VBind.vue";
-
+import computed from "./Demo/07_Computed/computed.vue";
 // import interpolationVue from "./Demo/02_interpolation/interpolation.vue";
 
 </script>
@@ -19,7 +18,8 @@ import reative from "./Demo/06_reactive/reative.vue";
       <!-- <interpolationVue></interpolationVue> -->
        <!-- <VBindVue></VBindVue> -->
         <!-- <Attribut></Attribut> -->
-         <reative></reative>
+         <!-- <reative></reative> -->
          <!-- <EVENT></EVENT> -->
+          <computed></computed>
   </div>
 </template>
