@@ -1,9 +1,9 @@
 <script setup>
 // import hellowordVue from "./Demo/01_hello-Word/helloword.vue";
 
-import EVENT from "./Demo/05_EVENT/FormEvent.vue";
+// import EVENT from "./Demo/05_EVENT/FormEvent.vue";
 // import EVENT from "./Demo/05_EVENT/Event.vue";
-
+import reative from "./Demo/06_reactive/reative.vue";
 // import Attribut from "./Demo/04_atrribut-dinamique/Atrributdinamique.vue";
 
 // import VBindVue from "./Demo/03_VBIND/VBind.vue";
@@ -19,6 +19,7 @@ import EVENT from "./Demo/05_EVENT/FormEvent.vue";
       <!-- <interpolationVue></interpolationVue> -->
        <!-- <VBindVue></VBindVue> -->
         <!-- <Attribut></Attribut> -->
-         <EVENT></EVENT>
+         <reative></reative>
+         <!-- <EVENT></EVENT> -->
   </div>
 </template>
